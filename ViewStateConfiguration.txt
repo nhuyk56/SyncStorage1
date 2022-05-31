@@ -1,0 +1,13 @@
+SearchHistory : suit,nest,wifi,pass,
+CalendarSidePanelIsExpanded : True
+FocusedInboxBitFlags : 2
+BookingsV2IsOnboardedFREModal : True
+GlobalFolderViewState : {"Width":350,"IsConversationView":true}
+IsBookingsV2DefaultOnUser : True
+FocusedViewWatermark : Tue, 24 May 2022 09:36:47 GMT
+BookingsV2OptInCount : 1
+CalendarSidePanelWidth : 228
+ListViewBitFlags : 32
+ClutterViewWatermark : Tue, 24 May 2022 09:36:47 GMT
+SelectedCalendarsDesktop : AAMkADRiMzU1MmMxLWE3YTItNGI1OS1hMWVhLTU2MzlkOGVjM2YzOABGAAAAAAC3mbug2uFARZOY6UA3MBqnBwDGRGd6ynesRIKDq0C+q/y9AAAAAAEGAADGRGd6ynesRIKDq0C+q/y9AAAAD4hjAAA=,
+Bookingsv2IsOptedIn : True
