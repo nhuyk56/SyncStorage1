@@ -1,0 +1,236 @@
+Chương 46: Developer nhật ký: alpha 0.3 phiên bản
+
+	Website chính thức:
+
+	[  đất hoang OL Closed Beta phục alpha0. 3 phiên bản đổi mới thông cáo.  ] 
+
+	[  trọng đại đổi mới:
+
+	1. Closed Beta player số lượng gia tăng đến 50 người.
+
+	2. Hoàn toàn mới kinh tế hệ thống
+
+	3. Hoàn toàn mới vinh dự hệ thống
+
+	 ] 
+
+	[  ưu hóa:
+
+	1. Mới tăng dị chủng mô hình một số.
+
+	2. Phong phú hơn có thể giao dịch tài nguyên.
+
+	3. Chữa trị chút ít Bug.
+
+	. . .
+
+	 ] 
+
+	Thông cáo phát ra về sau, Sở Quang không có nhàn rỗi, tiếp tục tại website chính thức diễn đàn đưa đội lên bản thân dự đoán biên tập tốt thiếp mời.
+
+	Loại này liên quan đến sở hữu player lợi ích trọng đại đổi mới, mình đương nhiên phải dùng trù hoạch thân phận cùng các người chơi thật tốt tâm sự.
+
+	« developer nhật ký: alpha0. 3 phiên bản »
+
+	"Hello mọi người tốt, ta là các ngươi thân ái nhất trù hoạch, nhờ có chúng ta dạ dĩ kế nhật tăng ca, còn có mỗi ngày đúng hạn quẹt thẻ Closed Beta player, đất hoang OL khai phát tiến độ lại đi tới một bước dài!"
+
+	"Không phải ta khoe khoang, lần này alpha0. 3 phiên bản đổi mới, sẽ trở thành trò chơi Closed Beta mở ra đến nay, ý nghĩa trọng đại nhất một lần đổi mới!"
+
+	"Trước đó một mực có tiểu đồng bọn phàn nàn, điểm cống hiến kết toán quá trình quá phiền phức, nhất định phải hạ tuyến về sau tài năng thẩm tra, không cách nào trong trò chơi cảm thụ kiếm tiền vui vẻ, mà lại tổng lo lắng NPC cắt xén tiền công. . . Kỳ thật cái lo lắng này là hoàn toàn dư thừa, kiêm nhiệm tân thủ dẫn đạo viên số 404 chỗ tránh nạn người quản lý tại thiết lập bên trên tuyệt đối chính nghĩa, tuyệt đối sẽ không thiếu phát một điểm tiền công, điểm này ta có thể dùng ta nhân phẩm đảm bảo!"
+
+	"Bất quá mặc dù không có cắt xén tiền công vấn đề, nhưng điểm cống hiến kết toán quá trình quá rườm rà vấn đề xác thực tồn tại. Đạt được phản hồi về sau, chúng ta trù hoạch bộ môn liên tục mở ba ngày ba đêm chút, cuối cùng được ra kết luận —— không thể là tính chân thực mà hi sinh trò chơi tính."
+
+	"Bởi vậy, chúng ta quyết định thiết kế một bộ hoàn toàn mới tiền tệ, tới lấy thay vốn có điểm cống hiến làm các người chơi từ nhiệm vụ bên trong lấy được chủ yếu ban thưởng!"
+
+	"Loại tiền tệ này phi thường thuận tiện, mặt giá trị chủ yếu chia làm 1 cùng 10 lượng loại, chất lượng vì đồng thau cùng ngân bạch, có thể dùng tới mua đồ ăn, trang bị cùng với khác cần trả tiền phục vụ cùng thương phẩm."
+
+	"Đúng vậy, lần này đổi mới về sau, đồ ăn sẽ không còn miễn phí cung ứng, mà là cần player tốn hao trong trò chơi đồng tệ hoặc là ngân tệ tới mua. Cùng lúc đó, các người chơi cũng sẽ từ nhiệm vụ bên trong thu hoạch được tiền tài làm thù lao. . . Cái này nghe không phải rất thú vị sao? Cách chơi một nháy mắt phong phú!"
+
+	"Một phương diện khác, Alpha0. 3 đổi mới về sau, chỗ tránh nạn đem cho phép nó các cư dân, có được chính mình tài sản riêng! Các người chơi từ đất hoang bên trên nhặt được rác rưởi hoặc là trang bị đều sẽ thuộc về mình, có thể cùng người chơi khác giao dịch, cũng có thể bán cho chỗ tránh nạn đổi lấy ban thưởng."
+
+	"Vì thế chúng ta đặc biệt đẩy ra ngoài định mức nhà kho hệ thống, ở vào chỗ tránh nạn cửa ra vào giảm xóc phòng!"
+
+	"Nơi đó có một hàng có thể thiết trí mật mã tủ chứa đồ, các ngươi trước đó cũng đã chú ý tới, hiện tại bọn chúng đã bị cởi mở sử dụng, bất kể là tiền vẫn là vũ khí đều có thể tồn tại nơi đó, trừ bỏ bị cấm chỉ đưa vào chỗ tránh nạn vật nguy hiểm!"
+
+	"Cái gì? Ngươi hỏi ta nó có phải hay không miễn phí? Đương nhiên là thu lệ phí! Bất quá mời không cần lo lắng, bọn chúng tiền thuê rất rẻ, tất cả mọi người có thể gánh vác lên!"
+
+	"Mặt khác, nắm giữ đại lượng điểm cống hiến player cũng không nên nản chí! Mặc dù điểm cống hiến không còn làm tiền tệ sử dụng, nhưng các ngươi đối chỗ tránh nạn thậm chí toàn bộ văn minh cống hiến, NPC tất cả đều nhìn ở trong mắt."
+
+	"Trải qua chúng ta trù hoạch bộ môn nghiên cứu, chúng ta quyết định đem điểm cống hiến nhập vào hoàn toàn mới 'Vinh dự' hệ thống bên trong!"
+
+	"Bộ này hệ thống cùng kinh tế hệ thống tương hỗ độc lập, chủ yếu quan hệ đến player tại chỗ tránh nạn bên trong được hưởng 'Đặc quyền' . . . Đơn giản tới nói, đó là có thể dùng để hối đoái thân phận cùng danh hiệu!"
+
+	"Sở hữu player ban đầu thân phận, ngầm thừa nhận là chỗ tránh nạn cư dân, tốn hao 2000 cống hiến có thể từ cư dân thăng cấp làm công dân.
+
+	"
+
+	"Tại số 404 chỗ tránh nạn, cư dân chỉ được hưởng cơ bản nhân quyền, chỉ có công dân tài năng có được tư nhân thổ địa."
+
+	"Trước mắt vẻn vẹn cởi mở 'Công dân' thân phận hối đoái. Nhất sơ cấp công dân thân phận, vẻn vẹn ủng hộ mua 5 mét vuông tư nhân thổ địa, mà theo thân phận tấn thăng, đếm một lần chữ vậy đem tiếp tục mở rộng."
+
+	"Càng nhiều thân phận cùng danh hiệu sẽ căn cứ khảo nghiệm tiến độ, tại sau này đổi mới bên trong lần lượt thả ra."
+
+	"Cùng lúc đó, ngay tại thiết kế bên trong lính đánh thuê, thương đội, công hội, quân đoàn chờ hệ thống, cũng đúng thân phận cùng điểm cống hiến có nhất định nhu cầu."
+
+	"Alpha0. 3 phiên bản về sau, nhiệm vụ hàng ngày ban thưởng chủ yếu lấy tiền tài làm chủ, chỉ có đối trạm tiền đồn chỉnh thể lợi ích sinh ra cống hiến hành vi, mới có thể thu được điểm cống hiến ban thưởng. Bao quát không giới hạn trong đảm nhiệm công cộng chức vị, giải quyết đột phát sự kiện, vĩ đại sáng tạo cùng phát minh vân vân."
+
+	"Những này làm ơn tất nhớ kỹ!"
+
+	Thiếp mời phát ra về sau, cũng không có lập tức gây nên động tĩnh rất lớn.
+
+	Bất quá điều này cũng tại Sở Quang trong dự liệu.
+
+	Đất hoang bên này chính là ba giờ chiều, hiện thực bên kia chính là rạng sáng, đối với không có cầm tới hẹn trước tư cách đám dân mạng tới nói Thái Âm ở giữa, đối ngay tại trong trò chơi các người chơi tới nói lại quá sớm.
+
+	Chờ bọn hắn hạ tuyến, tự nhiên sẽ nhìn thấy.
+
+	Duỗi lưng một cái, Sở Quang đang chuẩn bị đóng lại máy tính, chợt phát hiện thiếp mời thế mà nhiều đầu hồi phục.
+
+	[  Nha Nha: Tình huống như thế nào, cái này liền đổi mới! ? Ta ta ta ta bỏ lỡ toàn bộ 0. 2 phiên bản? ! QA Q  ] 
+
+	Nhìn thấy cái này thiếp mời, Sở Quang kinh ngạc.
+
+	Gia hỏa này vẫn thật là nói được thì làm được, không có mũ bảo hiểm cũng không đi ngủ a.
+
+	Bất quá, hắn cũng không còn biện pháp.
+
+	Nếu như có thể mà nói, Sở Quang so bất luận kẻ nào đều hi vọng các người chơi phục sinh CD có thể ngắn một điểm, nhưng tiếc nuối là, từ phôi thai phát dục thành thành thục cá thể luôn luôn cần một chút thời gian.
+
+	Nhịn thêm đi, đợi ngày mai không sai biệt lắm liền có thể làm việc.
+
+	Không có đi quản vị này xui xẻo nhỏ player, Sở Quang đóng lại máy tính về sau, liền đứng dậy đi chỗ tránh nạn bên ngoài.
+
+	Từ lần trước hắn từ Brown nông trường mua về một nhóm công cụ về sau, các người chơi làm việc nhi hiệu suất tỉ lệ lên trước đó xác thực tăng lên không ít.
+
+	Nhóm thứ ba player tiến vào trò chơi đến bây giờ cũng mới hai ngày mà thôi, trại an dưỡng chung quanh bê tông tường vây, thì đã nhanh sửa xong.
+
+	Không chỉ như vậy, Sở Quang còn phát hiện một bộ phận player ngay tại "Đao hạ lưu người "  dẫn dắt đi, tại trại an dưỡng trước trên đất trống đào nền tảng, hướng bên trong trải lên bùn đất gạch, xoa xi măng.
+
+	Thoạt nhìn như là tại lợp nhà.
+
+	Sở Quang đi ra phía trước, giữ chặt một ngay tại dời gạch player hỏi.
+
+	"Các ngươi đây là đang làm gì?"
+
+	Kia player đến vậy ngay thẳng, cười hắc hắc giải thích nói.
+
+	"Nghe nói mới NPC là vũ khí thương nhân, chúng ta ngay tại cho nàng đóng vũ khí cửa hàng!"
+
+	Ngọa tào?
+
+	Nghe nói như thế, Sở Quang kinh ngạc.
+
+	Như thế tự giác sao?
+
+	Mặc dù hắn quả thật có cùng Phương Trường tiết lộ qua NPC tình báo, nhưng tu võ khí cửa hàng loại chuyện này hắn nhưng cho tới bây giờ không có ám chỉ qua.
+
+	Cái này sóng dự phán quả thực tại tầng khí quyển rồi!
+
+	Trên mặt cũng không có bất kỳ bày tỏ gì, Sở Quang tiếp lấy nhìn về phía bên cạnh toà kia nền tảng, tiếp tục hỏi.
+
+	"Kia một cái khác đâu?"
+
+	Player cười trả lời nói.
+
+	"Cái kia a, hẳn là nhà tắm!"
+
+	"Trước đó chúng ta không phải một mực đi bên hồ rửa mặt sao, nhưng về sau phát hiện lão làm như vậy không quá an toàn. Nhất là hôm qua lão Bạch huynh đệ vừa xuống nước, thiếu chút nữa bị cá nheo cắn rơi mất nhỏ con giun. Thế là chúng ta vừa thương lượng, dự định làm cái công cộng nhà tắm ra tới."
+
+	Phốc.
+
+	Không được, không thể cười.
+
+	Sở Quang đình chỉ, kéo căng lấy vẻ mặt cứng ngắc nhẹ gật đầu.
+
+	"Khục, các ngươi thêm dầu."
+
+	"Chú ý vệ sinh là chuyện tốt. . ."
+
+	Player cười hắc hắc nói.
+
+	"Được rồi! Vậy ta trước hết đi làm việc rồi."
+
+	"Đi thôi."
+
+	Thời gian rất nhanh tới chạng vạng tối.
+
+	Trứng tráng huynh ở trên không trên mặt đất đỡ lấy một ngụm nồi sắt, đầu tiên là ném vào một khối linh cẩu mỡ rán mỡ, tiếp lấy đem cắt gọn thịt hươu cùng không biết từ chỗ nào nhặt được lá rau ném vào trong nồi đại hỏa lật xào, cũng rải lên muối làm gia vị.
+
+	Tối nay thực đơn là quyết đồ ăn xào thịt hươu, xứng nhạt nấu cháo thanh mạch.
+
+	Nhờ có người quản lý đánh tới đầu kia tuần lộc, các người chơi cuối cùng có thể cải thiện cơm nước.
+
+	"Chiếc kia nồi sắt là từ đâu nhi nhặt được?" Thấy trứng tráng huynh trên tay nắm bắt bản thân chưa thấy qua đồ làm bếp, Sở Quang trong lòng hiếu kì, thế là nhìn về phía cách mình gần đây lão Bạch hỏi.
+
+	"Ngài nói cái kia a, là ta cùng Phương Trường làm ra." Đối mặt người quản lý hỏi thăm, lão Bạch cười hắc hắc nói.
+
+	"Các ngươi làm?" Sở Quang ngoài ý muốn nhìn hắn một cái, hỏi tiếp, "Các ngươi cái kia lò cao. . . Có thể sử dụng rồi?"
+
+	"Đã có thể sử dụng rồi! Mặc dù luyện được sắt thép chất lượng chỉ có thể coi là bình thường, nhưng làm một chút công cụ vẫn là không có vấn đề gì."
+
+	Lão Bạch tự hào cười cười, nói tiếp,
+
+	"Vừa rồi ta chỉ muốn hướng ngài báo cáo tới, nhưng không tìm được ngài ở đâu, hắc hắc."
+
+	Không nghĩ tới ngay cả thổ pháp luyện thép kỹ thuật đều bị những này các người chơi cho nắm giữ.
+
+	Mặc dù thông qua loại phương pháp này luyện được sắt thép, chất lượng khả năng không quá tận như nhân ý, nhưng bất kỳ kỹ thuật không đều là từng bước một đi hướng thành thục sao?
+
+	Có sắt.
+
+	Không nói sức chiến đấu, chí ít sức sản xuất lại có thể cái trước nấc thang!
+
+	Sở Quang trong lòng cảm khái, trên mặt tràn ngập lấy bội phục.
+
+	"Các ngươi làm rất không tệ, ta sẽ hướng tổ chức báo cáo công lao của các ngươi."
+
+	"Ngươi và Lai Nhật Phương Trường sẽ thu hoạch được 1000 điểm điểm cống hiến ban thưởng. . . Làm đối giải quyết trạm tiền đồn sắt thép nhu cầu khen ngợi."
+
+	Lão Bạch đại hỉ, vội vàng nói.
+
+	"Có thể vì ngài phân ưu là vinh hạnh của ta!"
+
+	Sở Quang lắc đầu.
+
+	"Khách khí."
+
+	Những này các người chơi quả thực mỗi cái đều là nhân tài, mà lại nói nói lại tốt nghe, chính hắn một người quản lý làm không khỏi cũng quá buông lỏng điểm.
+
+	Nhớ được trước đó tại Bethe đường phố thời điểm, Sở Quang từng nghe tiệm tạp hóa lão Charles nói, đại đa số chỗ tránh nạn người quản lý, hạ tràng đều không phải rất tốt.
+
+	Chỗ tránh nạn ở Dân Viễn so đất hoang bên trên những người sống sót khó phục vụ nhiều,  cho dù ăn no mặc ấm, bọn hắn vẫn sẽ không xem hỏng bét hiện trạng, đưa ra một chút không thiết thực chủ trương.
+
+	Rất ít có kẻ cướp đoạt có thể chính diện công phá chỗ tránh nạn tường đồng vách sắt, những cái kia gãi ngứa ngứa tựa như vũ khí cũng không xứng cho chỗ tránh nạn đại môn lưu lại một chút vết cắt, tuyệt đại đa số phi tự nhiên nhân tố hoang phế chỗ tránh nạn, đều là bởi vì nội bộ mâu thuẫn cùng khác nhau, bản thân tan rã.
+
+	Lúc đó từ lão Charles trong miệng nghe thế lời nói lúc, Sở Quang luôn cảm giác ngữ khí của hắn có chút phiền muộn.
+
+	Giống như là hắn thân sinh trải nghiệm.
+
+	Vừa mới tiếp nhận số 404 chỗ tránh nạn quyền hạn quản lý lúc, Sở Quang trong lòng kỳ thật cũng là có chút thấp thỏm, lo lắng cho mình không làm xong công việc này, bởi vậy một mực tại Bethe đường phố cho mình lưu lại con đường lui, thu mua tiểu Ngư giúp mình giữ nhà.
+
+	Bất quá bây giờ, hắn đã sẽ không như thế nghĩ đến.
+
+	Những chuyện tương tự có thể sẽ phát sinh ở bất luận cái gì chỗ tránh nạn, nhưng tuyệt đối sẽ không phát sinh ở bản thân nơi này.
+
+	Đi đến xào rau trước bếp lò.
+
+	Sở Quang cầm một cái bát, nhìn xem vừa mới xào xong một nồi món ăn trứng tráng huynh nói.
+
+	"Cho ta vậy xới một bát."
+
+	Trứng tráng một mặt kinh ngạc.
+
+	Khi hắn trong ấn tượng, vị này NPC giống như chưa từng có cùng bọn hắn một đợt dùng cơm qua. Đến mức hắn một trận hoài nghi, vị đại nhân này tại thiết lập bên trên là không cần ăn cơm.
+
+	Chẳng lẽ trí tuệ nhân tạo thăng cấp?
+
+	"Ta tới!"
+
+	Chờ tại bếp lò bên cạnh Đằng Đằng, chịu khó tiếp nhận chén, múc tràn đầy một đại chén cháo thanh mạch, đưa tới người quản lý trên tay.
+
+	"Cẩn thận nóng ờ."
+
+	"Ừm."
+
+	Sở Quang gật đầu cám ơn, lại để cho trứng tráng huynh cho mình múc một muôi xào thịt hươu, trực tiếp tưới lên đậm đặc cháo thanh mạch bên trên, sau đó liền quay người hướng phía chỗ tránh nạn thang máy phương hướng đi.
+Kết chương.
