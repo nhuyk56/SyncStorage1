@@ -1,0 +1,406 @@
+Chương 190: Alpha 0.9 phiên bản! Hoàn toàn mới nghề nghiệp hệ thống cùng kỹ năng độ thuần thục cách chơi!
+
+	Website chính thức:
+
+	[  đất hoang OL Closed Beta phục Alpha 0.9 phiên bản đổi mới thông cáo!  ] 
+
+	[  trọng đại đổi mới:
+
+	1. Closed Beta player số lượng gia tăng đến 800 người!
+
+	2. Đổi mới "Nghề nghiệp hệ thống" cùng "Kỹ năng độ thuần thục" thiết lập.
+
+	3. Thân phận mới đẳng cấp "Trung cấp công dân" : Nhu cầu 10000 điểm cống hiến, cho phép mua thổ địa từ 5 mét vuông tăng lên đến 50 mét vuông.
+
+	 ] 
+
+	[  ưu hóa:
+
+	1. Mới tăng NPC "Hách Á" : Tóc bạc hỗn huyết thiếu nữ, công trình học tiến sĩ, nghĩa thể cải tạo độ 79% DNA thiếu hụt người, số 117 chỗ tránh nạn duy nhất người sống sót, sinh ra ở chỗ tránh nạn bên trong đại tân sinh cư dân. Có rất nhiều chuyện xưa nàng, trên thân tựa hồ cất giấu rất nhiều bí mật. (đồ 1)(đồ 2)(đồ 3)
+
+	2. Chỗ tránh nạn gia tăng đến B3 tầng, cởi mở càng nhiều khu vực, càng nhiều tình báo mời player tự hành thăm dò.
+
+	3. Mới tăng kẻ cướp đoạt thế lực "Tước Cốt bộ lạc" : Bởi vì quân đoàn quân viễn chinh chiến bại, hỗn loạn như như bệnh dịch, tại lũng sông hành tỉnh khô cạn đại địa bên trên khuếch tán. Một con khổng lồ kẻ cướp đoạt bộ lạc, đang lấy tốc độ bất khả tư nghị quật khởi.
+
+	"Hỗn loạn, tử vong, cùng dã man! Chúng ta đem xé mở văn minh yết hầu, mút hắn hài cốt, đem những cái kia hào nhoáng bên ngoài túi da treo ở cờ xí thượng phong làm!"
+
+	4. Tử vong trừng phạt sửa đổi: Phục sinh CD duy trì không thay đổi, LV10 trở xuống player tử vong trừng phạt từ 40 ngân tệ điều chỉnh đến 20 ngân tệ, LV10~LV20 tử vong trừng phạt duy trì không thay đổi, LV20~LV30 tử vong trừng phạt đề cao đến 80 ngân tệ.
+
+	5. Mới tăng thức tỉnh khái niệm, LV9 tăng lên đến LV10 đem tự động hoàn thành thứ 1 lần thức tỉnh, tổ hợp gien khai phát tiến độ từ giai đoạn thứ nhất tăng lên đến giai đoạn thứ hai, player vai diễn sẽ thu hoạch được chí ít một hạng ngoài định mức thiên phú, lại bảng thuộc tính cùng thực tế sức chiến đấu sẽ thu hoạch được chất tăng lên.
+
+	6. Chữa trị chút ít Bug.
+
+	. . .
+
+	 ] 
+
+	[  bởi vì player số lượng tiến một bước gia tăng, player sổ tay cùng người sử dụng công ước đã đổi mới đến mới nhất phiên bản, mới tăng "Chiến tranh chuẩn tắc", "Tù binh sách lược" tương quan nội dung, mời thu hoạch được Closed Beta tư cách player kịp thời tìm đọc, để tránh cho ngài cùng người khác mang đến hỏng bét trò chơi thể nghiệm. Đã hẹn trước player vậy mời tỉ mỉ xác nhận, nếu như không thể nào tiếp thu được mới tăng quy tắc mời kịp thời hủy bỏ hẹn trước, kiên nhẫn trong khi chờ đợi cho phong phú hơn Open Beta bản.  ] 
+
+	[  trước mắt hẹn trước nhân số: 23333 người  ] 
+
+	«Alpha 0.9 phiên bản developer nhật ký »
+
+	Hiểu kỳ: "Hello mọi người tốt, ta là các ngươi thân ái nhất trù hoạch a Quang thân ái nhất trợ thủ! Bởi vì giặt quần áo hải âu dẫn đầu tăng ca hành vi thu nhận bộ khai thác, trù hoạch bộ, trang trí bộ tập thể lửa giận, chúng ta quyết định đem hắn cất vào sao biển đồ hộp bán cho người đột biến bộ lạc. . . Vô luận như thế nào, chúng ta cuối cùng vẫn là làm xong Alpha 0.9 phiên bản, lần này đổi mới ý nghĩa phi thường trọng đại. Bởi vì a Quang còn tại tăng ca, lần này liền ủy thác ta tới cùng đại gia tâm sự phiên bản mới thiết kế mạch suy nghĩ cùng cách chơi!"
+
+	"Đầu tiên Alpha 0.9 phiên bản tương đối 0.8 phiên bản lớn nhất cải biến chính là, chúng ta vì « đất hoang OL » đến tăng thêm nghề nghiệp hệ thống cùng kỹ năng độ thuần thục thiết lập."
+
+	"Nói thực ra, tại làm ra quyết định này thời điểm, chúng ta là phi thường do dự. Dù sao chúng ta ban sơ muốn làm chính là một cái lấy độ tự do cùng giả lập cộng đồng làm điểm bán, chủ đánh hưu nhàn giải trí Sandbox trò chơi, thậm chí ngay cả vai diễn giao diện cũng không tính khai thác loại kia, nghề nghiệp khái niệm tựa hồ cùng này đi ngược lại."
+
+	"Nhưng mà, theo nội dung trò chơi không ngừng phong phú, player càng ngày càng nhiều tham dự vào cởi mở thế giới công việc bên trong, chúng ta NPC ngay tại dần dần lâm vào một cái lưỡng nan cục diện tức, có thể việc làm là có hạn, như thế nào sẽ có hạn cơ hội phân phối cho càng cần hơn nó người."
+
+	"Trương Tam thích câu cá, Lý Tứ thích làm ruộng, trên tay của chúng ta có một thanh cuốc cùng một thanh cần câu, lý tưởng tình huống là đem cần câu cho Trương Tam, cuốc cho Lý Tứ. Nhưng bây giờ player số lượng đã lên cao đến 800 người, nếu như dùng khâm định phương thức quyết định nhiệm vụ do ai tới làm, có chút không công bằng nguyên tắc, bởi vậy chúng ta cần chế định một cái tiêu chuẩn!"
+
+	"Mà nghề nghiệp hệ thống cùng kỹ năng độ thuần thục, chính là vì thế mà sinh!"
+
+	"Lấy đốn củi làm thí dụ, làm player mang theo VM đốn cây, hoặc là hoàn thành đốn củi nhiệm vụ thời điểm, đốn củi kỹ năng độ thuần thục liền sẽ tự động tích lũy, đạt tới hạn mức cao nhất thì sẽ tăng lên kỹ năng đẳng cấp, thấp nhất cấp 0, đẳng cấp cao nhất vì cấp 10. Đẳng cấp này cùng tổ hợp gien đẳng cấp không quan hệ, mỗi hạng kỹ năng đẳng cấp độc lập tính toán. Mặc dù kỹ năng đẳng cấp tăng lên cũng sẽ không cho ngài mang đến trực quan công tác hiệu suất tăng thêm, nhưng lại có thể vì ngài giải tỏa càng nhiều cùng kỹ năng này tương quan, lại ích lợi cao hơn nhiệm vụ, thậm chí là giải tỏa chuyên môn xưng hào tỉ như vương bài thợ đốn củi hoặc là rừng rậm hủy diệt giả!"
+
+	"Trừ đốn củi bên ngoài, có thể tăng lên độ thuần thục kỹ năng còn bao gồm súng ống, ném, bắn tên, cận chiến, chữa bệnh, nhặt ve chai, đồ tể, nấu nướng, kiến trúc, may vá, luyện kim, chế tạo, gieo trồng, lấy quặng các loại. . . Vượt qua 40 loại, càng nhiều tình hình cụ thể mời player tự hành thăm dò!"
+
+	"Tương đối kỹ năng độ thuần thục hệ thống, 'Nghề nghiệp hệ thống' thì càng giống là một loại thân phận tượng trưng hoặc là cách nói hàm."
+
+	"Tỉ như, tại nhà kho nhân viên quản lý 'Quách Ngưu' nhậm chức người nhặt rác về sau, nhặt ve chai kỹ năng độ thuần thục tích lũy tốc độ sẽ nhanh hơn, cũng tại nhặt ve chai trong công việc bị ủy thác trách nhiệm, nhận lấy người nhặt rác nghề nghiệp chuyên môn, cũng tại điều kiện thỏa mãn về sau có thể trở thành 'Người nhặt rác đại sư' thậm chí 'Rác rưởi chi vương' !"
+
+	"Tại kho lúa nhân viên quản lý 'Quách Mã' nơi coi như chức trở thành nông phu hoặc là đồ tể, giải tỏa càng nhiều hạt giống hoặc là xác nhận càng nhiều đồ tể đơn đặt hàng."
+
+	"Trừ cái đó ra, bộ phận nghề nghiệp tồn tại nhất định kỹ năng độ thuần thục ngưỡng cửa, tỉ như muốn nhậm chức trở thành một tên thợ săn, đi săn càng đáng giá xuất thủ mục tiêu, cần thỏa mãn súng ống, ném, bắn tên ba loại kỹ năng bên trong tùy ý một hạng đạt tới 3 cấp, hoặc là thanh toán 10 ngân tệ mở ra đi săn kỹ năng khảo hạch."
+
+	"Tương tự nghề nghiệp còn có binh sĩ, kiến trúc sư, khảo sát viên vân vân. Đến tiếp sau còn đem cởi mở lính đánh thuê, nhà mạo hiểm, công trình sư chờ nghề nghiệp, càng nhiều nội dung xin lưu ý website chính thức!"
+
+	"Người mới player chỉ có thể đăng kí một loại nghề nghiệp, theo thân phận đẳng cấp tăng lên, có thể đăng kí nghề nghiệp cũng sẽ gia tăng. Như, công dân có thể đăng kí hai cái nghề nghiệp, trung đẳng công dân là ba cái, cứ thế mà suy ra. Đã đăng kí nghề nghiệp có thể tùy thời gạch bỏ, nhưng nghề nghiệp này tương quan thành tựu cùng danh hiệu vậy đem cùng nhau về không, mời thận trọng lựa chọn!"
+
+	"Mặt khác, chúng ta sẽ tại cái tiếp theo phiên bản giải quyết chụp ảnh vấn đề, cho phép player dùng ống kính ghi chép lại tốt đẹp nháy mắt."
+
+	"Nếu như cái tiếp theo phiên bản không có giải quyết, hạ hạ cái phiên bản nhất định!"
+
+	. . .
+
+	Đổi mới thông cáo cùng khai phát nhật ký phát ra về sau không đến một phút, thiếp mời phía dưới bình luận liền tốc độ ánh sáng đổi mới trên trăm đầu.
+
+	Chỉ bất quá, khiến các người chơi cảm xúc tăng cao nguyên nhân, đến không phải là bởi vì mới đẩy ra nghề nghiệp hệ thống.
+
+	Thậm chí có thể nói, cùng lần này phiên bản trọng đại đổi mới nội dung không hề có một chút quan hệ.
+
+	Ảnh Nguyệt tàn phong: "Tóc trắng! Là tóc trắng! Tóc trắng khống cuồng hỉ! (phá âm) "
+
+	Kẻ này coi là thật khủng bố như vậy: "Quá chát chát, quá chát chát rồi!"
+
+	Irena: "Không có người hô lão bà sao? Vậy ta đến hô một tiếng được rồi. (buồn cười) "
+
+	Cai thuốc: "Trù hoạch ba ba ngưu bức! (phá âm) "
+
+	Cái đuôi: "prprpr "
+
+	Tư Tư: "Y! Người này! Không đúng, cái này cái đuôi!"
+
+	Hẻm núi đang lẩn trốn chuột đồng: "Chậc chậc, các ngươi những này LSP, sẽ không người quan tâm lần này đổi mới nghề nghiệp hệ thống cùng kỹ năng độ thuần thục sao? Chuyện trọng yếu như vậy, chủ đề đâu! Làm sao đều chạy một cái NPC trên người rồi! (gõ bàn) "
+
+	Phương Trường: "Thật có lỗi, cái này trù hoạch cũng quá sẽ. (máu mũi) "
+
+	Đêm mười: "+1, chuột đồng lão ca gkd! (buồn cười) "
+
+	Hẻm núi đang lẩn trốn chuột đồng: "Móa! Làm sao ngay cả Phương Trường ngươi cái này mày rậm mắt to gia hỏa cũng đổ mâu rồi!"
+
+	Thiếp mời bên trong một mảnh náo nhiệt.
+
+	Thiếp mời bên ngoài diễn đàn cũng giống như vậy.
+
+	Website chính thức đã hoàn toàn bị những này Cloud Gamer, Sa Điêu dân mạng và việc vui mọi người xông bạo.
+
+	Nhất là lần này Alpha 0.9 phiên bản, player nhân số trực tiếp từ 500 nâng lên800!
+
+	Lần này lập tức thả ra 300 cái khảo thí danh ngạch, đem những cái kia thoát Phi nhập Âu tiểu manh tân nhóm tất cả đều cho kích động hỏng rồi.
+
+	Trên diễn đàn đồng thời thêm ra hơn hai trăm đầu lấy được thưởng cảm nghĩ là cái gì khái niệm?
+
+	Chớ đừng nói chi là còn có mấy vạn cái vừa chanh, cùng mấy vạn cái ăn dưa.
+
+	Khoa trương nhất thời điểm, thiếp mời cơ hồ là lấy mỗi giây 5 mét tốc độ xoát bình phong, vừa phát ra ngoài thiếp mời tựa như ném vào trong sông tảng đá, trực tiếp chìm đến trang thứ hai đi.
+
+	Lại đổi mới một lần, càng là triệt để không tìm được.
+
+	Không có đem Server cho chen tê liệt, xem ra cái này nhà phát hành cũng là dốc hết vốn liếng rồi!
+
+	Đọc xong thông cáo lão Bạch, liếc một cái hẹn trước nhân số.
+
+	Khá lắm, mấy phút trước đó vẫn là 23333, lúc này mới một cái chớp mắt, vậy mà nhảy đến 27777, trực tiếp chạy ba vạn đại quan đi!
+
+	Những người này làm bài tốc độ đều nhanh như vậy sao? !
+
+	. . .
+
+	Ngưu Mã câu lạc bộ bầy.
+
+	Website chính thức bên trên không ai thảo luận phiên bản mới, đại gia chỉ có thể chạy đến riêng phần mình tiểu Quần bên trong đi thảo luận.
+
+	WC thật có con muỗi: "Thư thái! Ta điểm cống hiến vừa vặn đủ 10000, trực tiếp nguyên địa phi thăng người trên người! (nhe răng) "
+
+	Cuồng phong: "Ta 12000, quả nhiên tích lũy cống hiến vẫn hữu dụng."
+
+	Cà chua trứng tráng: "Cam, ta mẹ nó còn kém 2000, các ngươi thế nào xoát? Làm sao nhanh như vậy!"
+
+	Cai thuốc: "Đúng rồi! Ta vừa mới đến công dân, các ngươi những này gan đế cũng quá khoa trương! QA Q "
+
+	Đêm mười: "Thật tuyệt, lại có thể mua đất rồi! (buồn cười) "
+
+	Công dân đẳng cấp cần 2000 điểm cống hiến, trung đẳng công dân không sai biệt lắm lật gấp năm lần.
+
+	Bất quá, đây cũng không có nghĩa là từ công dân lên tới trung đẳng công dân độ khó cũng là gấp năm lần, dù sao theo đẳng cấp tăng lên , nhiệm vụ ích lợi cũng là đồng bộ dâng lên.
+
+	Nghiêm túc lá gan lời nói một tháng không sai biệt lắm liền có thể đến, hưu nhàn một chút hai ba tháng cũng đủ rồi, một ngày lưu lượng ngày giữ gốc đều có 120 điểm, chớ đừng nói chi là LV5 về sau, rất nhiều nhiệm vụ trực tiếp lên 200~500 cái này một ngăn, chỉ cần trang bị cùng đẳng cấp lên rồi, cống hiến vẫn là xoát thật mau.
+
+	Tỉ như, chủ nhóm cùng cẩu quản lý nhóm gần nhất một mực tại xoát nhà ấm di tích bản, ngân tệ cùng cống hiến ích lợi cơ bản đều là bốn chữ số, cống hiến sẽ hơi cao một chút. Bình quân ngày lẻ thu nhập cao nhất có thể đến 600 cống, thấp nói cũng có 400 cống tả hữu.
+
+	Bộ phận sinh hoạt game thủ chuyên nghiệp cũng là cùng loại, tỉ như con muỗi, nhà kho trường kỳ có chế tác ni-trát hoá bông vải đơn đặt hàng, cái nhu cầu này trường kỳ tràn đầy.
+
+	Nhất là bên trên 0.8 phiên bản đổi mới địa khu danh vọng hệ thống về sau, mở ra vật tư quyên góp công năng, sinh hoạt player lại thêm một đầu xoát cống hiến con đường.
+
+	Chỉ cần quyên tặng vật tư chiến lược, chẳng những có thể thu hoạch được "Thủ đô "  địa khu danh vọng, còn có thể thu hoạch được bộ phận bản thế lực thông dụng điểm cống hiến!
+
+	Một vạn điểm cống hiến, thật không tính rất nhiều.
+
+	Chủ đề rất nhanh biến đến mới tăng nghề nghiệp hệ thống cùng kỹ năng độ thuần thục hệ thống bên trên.
+
+	Phương Trường: "Ta vừa rồi lên vào trò chơi, ta bắn tên kỹ năng độ thuần thục thế mà là 4."
+
+	Lão Bạch: "Xem ra trước kia độ thuần thục cũng cho tính đến."
+
+	Phương Trường: "Chính xác tới nói, hẳn là cầm tới VM về sau tích lũy độ thuần thục. Có thể to gan phỏng đoán một lần, không cho phép chúng ta bây giờ độ thuần thục đẳng cấp, chính là căn cứ vào những hành vi kia số liệu thiết kế."
+
+	Đêm mười: "Người quản lý thông qua VM thu thập chúng ta thông tin cá nhân khẳng định. (buồn cười) "
+
+	Cuồng phong: "Lại nói Phương Trường, ngươi dự định mang nghề nghiệp gì?"
+
+	Phương Trường: "Trung đẳng công dân có thể mang ba cái, ta, tạm định thợ săn, binh sĩ, khảo sát viên."
+
+	Cuồng phong: "Không mang người nhặt rác?"
+
+	Phương Trường: "Ngăn chứa không đủ, không có cách nào. Thợ săn khẳng định được mang, gửi tiền Thần khí, liền xông cái kia đi săn ích lợi tăng thêm cũng được mang. Binh sĩ cũng không cần nói, đoán chừng là phiên bản chi tử, gần nhất không phải đổi mới cái gì Tước Cốt bộ lạc sao? Khẳng định có cơ hội dùng tới. Khảo sát viên còn cần phải nói sao? Sinh thái phòng thí nghiệm di chỉ, đoán chừng cũng là cao ích lợi bản."
+
+	Cai thuốc: "Đại lão! Người mới mang nghề nghiệp gì tốt? QA Q "
+
+	Phương Trường: "Ngươi là thể chất hệ đi, nếu như là lực lượng hệ trước tiên có thể treo cái thợ đốn củi, đem lực lượng thuộc tính xoát đi lên. Thể chất cùng cảm giác lời nói, treo người nhặt rác đi, cái này nghề nghiệp dầu cù là. Lên tới công dân có thể lại mang thợ săn hoặc là binh sĩ, xem ngươi dự định chơi như thế nào cái này phiên bản."
+
+	Đêm mười: "Nhặt rác rưởi vĩnh viễn tích thần! Ta mặc kệ, dù sao ta muốn mang nhặt rác rưởi. (buồn cười) "
+
+	Nhặt rác rưởi 99 cấp: "Ai đang gọi ta? ? ?"
+
+	Đêm mười: "Y! Ngươi lại còn ở trong nhóm."
+
+	Nhặt rác rưởi 99 cấp: "Móa! Nhìn một cái, ngươi cái này nói là tiếng người sao?"
+
+	Từ lần trước trận kia chiến dịch về sau, vị này thằn lằn lão huynh vẫn tại "Ngủ đông", gần nhất đều không làm sao ở trong nhóm nổi bong bóng.
+
+	Cái này đã lâu không gặp, Đêm mười lại có loại cảm giác thân thiết.
+
+	Cuồng phong: "Lại nói các ngươi đi bản đồ mới nhìn sao?"
+
+	Phương Trường: "Ta đang định đi, muốn một đợt sao?"
+
+	Cuồng phong: "Đi lên!"
+
+	Lão Bạch: "A? Ngươi một hồi không lên lớp sao?"
+
+	Cuồng phong: "Sáng hôm nay không có lớp, ta có thể chơi đến 12 điểm xuống tuyến."
+
+	Đêm mười: "Đúng dịp, gia cả ngày hôm nay đều không khóa, ta có thể ban thưởng bản thân cả ngày. (buồn cười) "
+
+	Lão Bạch: "Tiểu tử ngươi vẫn là kiềm chế một chút, đừng mỗi ngày chơi game, đại học không nói cái bạn gái, đi trên xã hội cẩn thận bị người lừa gạt."
+
+	Đêm mười: "Ha ha, khỏe mạnh nói chuyện gì đối tượng, là làm cơm không thơm vẫn là trò chơi không thơm? Tam thứ nguyên chính là một đầu Shit, các ngươi đi cuốn đi, ta có tiểu Ngư là đủ rồi. (buồn cười) "
+
+	Cuồng phong: "Câu nói này liền đủ ngươi phán hình đi."
+
+	Đêm mười: "Lại nói các ngươi đừng lão dắt ta, ta đi phòng ăn thời điểm, ngẫu nhiên còn có thể đụng phải tìm ta muốn Wechat học muội, các ngươi bóp? Nhanh ba mươi người, mỗi ngày đúng hạn online chơi game, tự hạn chế đến không có sinh hoạt tình dục, nằm Heisei dạng này phù hợp sao?"
+
+	Phương Trường: "Sách, đem người này đá đi."
+
+	Cuồng phong: "+1, mà lại ta cũng không phải là không muốn, chẳng qua là cảm thấy không thú vị lại nhàm chán."
+
+	Lão Bạch: "Ta tới mở bỏ phiếu thiếp được rồi."
+
+	[  chủ nhóm khởi xướng bỏ phiếu: Phải chăng đem dã phân đá. 1. Là, 2. Đồng ý  ] 
+
+	Đêm mười: "Móa! Hữu nghị đâu? Còn có, làm sao mẹ nó hai cái tuyển hạng đều là đá ta!"
+
+	Nhặt rác rưởi 99 cấp: "Ha ha ha ha, ai muốn ngươi mẹ nó kéo cừu hận, nên!"
+
+	Tất cả mọi người là bạn cũ, bình thường chỉ đùa một chút, tự nhiên không có khả năng thật đá.
+
+	Chủ nhóm ban ngày còn có việc, sẽ không đi theo thượng tuyến.
+
+	Phương Trường, cuồng phong, Đêm mười ăn điểm tâm, hẹn xong thời gian một lần nữa đeo lên mũ bảo hiểm, rất mau trở lại đến trên mạng.
+
+	Vốn cho rằng B2 tầng thang máy tháp trước, sẽ có rất nhiều người xếp hàng, kết quả làm bọn hắn đi tới đại sảnh thời điểm, lại phát hiện người cũng không như trong tưởng tượng hơn nhiều.
+
+	Nhìn kỹ, khá lắm, thang máy tháp bên cạnh thế mà đổi mới một đầu lối đi an toàn!
+
+	Trước đó nơi này là lấp kín tường tới?
+
+	Xem ra nhà phát hành vậy ý thức được chỗ tránh nạn bên trong thang máy vận lực chưa đủ vấn đề.
+
+	Theo B3 tầng mở ra, không muốn chờ thang máy player, hiện tại có thể thông qua thang lầu tại đã cởi mở tầng lầu ở giữa di động.
+
+	Nếu như có thể đem bên ngoài bộ kia thang máy cũng cho thăng cấp bên dưới là tốt rồi!
+
+	Đi tới B3 tầng.
+
+	Phương Trường nhìn quanh liếc mắt chung quanh, sờ lên cằm ngẫm nghĩ một lát, cho ra bản thân đánh giá.
+
+	"Bố cục của nơi này xem ra cùng B2 tầng rất giống."
+
+	Đêm mười cũng nói.
+
+	"Không thể nói rất giống, quả thực là giống nhau như đúc."
+
+	Cuồng phong nhìn về phía một bên vách tường, nơi đó chiếu đến một bức mặt phẳng bản vẽ kết cấu.
+
+	"Vẫn có chút khác biệt, các ngươi nhìn khu A cùng B khu ở giữa đầu kia hành lang, B2 khu hành lang cuối cùng là một gian khóa lại nhà kho. Mà ở B3 tầng đồng dạng vị trí, không gian rõ ràng phải lớn hơn mấy lần, còn nhiều thêm mấy cái có thể thăm dò khu vực."
+
+	"Hừm, ta vừa rồi vậy chú ý tới, " Phương Trường nhẹ gật đầu, "Xem ra lầu mới tầng khu vực hạch tâm là ở chỗ này. . . Tóm lại tới xem xem đi."
+
+	Nói, Phương Trường đi ở phía trước, mang theo hai người hướng hành lang phương hướng thăm dò quá khứ.
+
+	Xuyên qua khu A cùng B khu về sau, trước hết nhất đi ngang qua là một gian màu trắng gian phòng.
+
+	Từ giữa phòng cái kia bàn giải phẫu một dạng ghế nằm, cùng bên trong căn phòng bố cục cùng trang hoàng đến xem, nơi này tựa hồ là một gian phòng y tế hoặc là tương tự địa phương.
+
+	Làm ba người đứng tại cửa thời điểm, đã có một vị ngang tai tóc ngắn cùng một vị ghim cao đuôi ngựa người chơi nữ ở bên trong.
+
+	Vẫn nhìn chung quanh, Tư Tư kinh ngạc nói.
+
+	"Thế mà là phòng y tế ài, hơn nữa còn có loại y học phòng thí nghiệm cảm giác. . . Lại nói càng sâu xa môn mở không ra sao?"
+
+	Cái đuôi: "A? Tư Tư làm sao biết nhiều như vậy? Là bởi vì thường đi không?"
+
+	Tư Tư liếc cái đuôi liếc mắt: "Nói như vậy cũng không còn sai, bất quá ta phải đi cho người ta xem bệnh."
+
+	Mặc dù là tồn tại cảm tương đối thấp bệnh lý khoa, mỗi ngày tiếp xúc Formalin so người sống còn nhiều, nhưng miễn cưỡng cũng có thể xem như cho người ta xem bệnh a?
+
+	Cái đuôi: "Đại phu! Ta bị bệnh, cho ta ngó ngó!"
+
+	Tư Tư mặt ủ mày chau duỗi ra hai tay, làm cái quỷ bắt người động tác.
+
+	"Ta là nhìn đầu óc ờ, được cắt ra tài năng nhìn."
+
+	Cái đuôi: "! ∑(Дノ)ノ "
+
+	Tư Tư: "Y, ngươi là làm sao trong trò chơi phát ra biểu tượng cảm xúc?"
+
+	Nhìn xem pha lê sau tường mặt hai người, ba tên thân sĩ trầm mặc một hồi, nhất trí quyết định còn là đừng quấy rầy các nàng được rồi.
+
+	Phương Trường: "Chúng ta chuyển sang nơi khác tham quan đi."
+
+	Đêm mười: "Đồng ý."
+
+	Cuồng phong không nói gì, nhưng nhẹ gật đầu.
+
+	Ba người tiếp tục hướng phía trước, tiếp lấy đi ngang qua là một toà khoa huyễn cảm đúng gieo trồng khu.
+
+	Toàn bộ gieo trồng trong khu nhìn không thấy một hạt thổ, chỉ có hình dạng cùng bể cá một dạng gieo trồng bài mục dựa theo website chính thức bên trên thiết lập tựa hồ là cái này cách gọi.
+
+	Cuồng phong nhìn thoáng qua VM, kinh ngạc phát hiện, tại địa đồ nhỏ bên trên thế mà đổi mới mỗi cái thiết bị danh xưng, cùng thiết bị công năng giới thiệu vắn tắt.
+
+	Xem ra lần này Alpha 0.9 phiên bản đổi mới xa xa không chỉ là nghề nghiệp hệ thống, còn ám sửa lại một bộ phận trong trò chơi thiết lập.
+
+	Không sai.
+
+	Cuối cùng là không dùng dựa vào não bổ rồi!
+
+	"Từ VM bên trên địa đồ nhìn, nơi này tựa hồ là gieo trồng khu. . . Lý luận gieo trồng diện tích 50 mẫu."
+
+	"Nơi này có 50 mẫu sao?"
+
+	"Có 50 tòa kệ hàng một dạng lập thể gieo trồng bài mục, ta đoán chừng ý của nó là mỗi một toà lập thể gieo trồng bài mục tương đương với một mẫu đất đi."
+
+	Lại nói đều đã có nhà ấm di chỉ, loại này thiết bị còn có tồn tại tất yếu sao?
+
+	Hay là nói, nơi này có hạt giống kho, tồn phóng trước khi chiến đấu cây trồng hạt giống?
+
+	Phương Trường trong lòng nghĩ ngợi.
+
+	Cách đó không xa, Macabazi ôm lập thể gieo trồng bài mục, kích động nói năng lộn xộn, không biết tại bô bô nói cái gì.
+
+	Mà đứng khi hắn bên cạnh vị kia, tựa như là câu cá lão "Thiếu kéo con bê" .
+
+	"Xéo đi! Ngươi mơ tưởng đụng đến ta địa!"
+
+	"Cái gì không, cái này rõ ràng là bể cá!"
+
+	"Nhà ngươi bể cá dài dạng này! ?"
+
+	"% $#@!"
+
+	Ba người trao đổi một lần ánh mắt, ăn ý quyết định không đi quấy rầy hai người bọn họ, tiếp tục đi đến phía trước.
+
+	Đi thêm về phía trước, là một gian rất nhỏ gian phòng, cổng in phóng xạ vật đánh dấu.
+
+	"Nơi này tựa hồ là phòng động lực?" Đối chiếu VM bên trên văn tự, Phương Trường như có điều suy nghĩ nói, "Căn cứ website chính thức thiết lập tập tư liệu, hẳn là dùng để thả tụ biến lò phản ứng địa phương?"
+
+	Đêm mười nhìn chung quanh liếc chung quanh, lẩm bẩm nói: "Nơi này giống như không có gì có thể nhìn, cởi mở khu vực cũng rất nhỏ. . . Ta còn tưởng rằng có thể trông thấy lò phản ứng nội bộ đâu."
+
+	Phương Trường: "Dù sao khoa huyễn trò chơi bên trong loại này siêu việt hiện thực kỹ thuật không tốt lắm biên , bình thường đều là cho ngươi một đống mô hình bản thân não bổ đi."
+
+	Lò phản ứng cũng không ở nơi này không đến 20 mét vuông hẹp dài gian phòng bên trong, trước mặt của bọn hắn còn có một chắn rất dày vách tường cùng một cái đang đóng cửa hợp kim.
+
+	Cửa hợp kim trên có một khối cửa sổ nhỏ, có thể trông thấy sau tường mặt kim loại giá đỡ cùng hư hư thực thực có thể khống chế tụ biến chồng nửa bên hình dáng.
+
+	Cuồng phong đi vào quá khứ, tò mò xích lại gần nhìn, đưa tay nhẹ nhàng đẩy cửa.
+
+	Nhưng mà cánh cửa kia giống như là cùng không gian cố định lại với nhau, không nhúc nhích tí nào.
+
+	Có lẽ bộ phận này vốn chính là tô pô?
+
+	Vẫn là nói nhà phát hành còn chưa nghĩ ra làm sao biên, hoặc là căn bản không có ý định tại không quá quan trọng chi tiết lãng phí thời gian.
+
+	Thấy làm sao thử đều không phản ứng, cuồng phong đưa tay thu hồi lại, một mặt tiếc nuối nói.
+
+	"Đáng tiếc."
+
+	Mặc dù hắn cũng không cảm thấy nhà phát hành có thể có cái gì làm người hai mắt tỏa sáng não động, nhưng dính đến chuyên nghiệp tương quan lĩnh vực tổng khó tránh khỏi nhường cho người hiếu kì.
+
+	Nếu có thể nhìn xem như thế nào là tốt rồi.
+
+	. . .
+
+	Ngay tại các người chơi thăm dò 0.9 phiên bản mới nội dung thời điểm, cả tòa chỗ tránh nạn người quản lý Sở Quang, đang đứng B3 tầng "Công năng khu "  cái cuối cùng khu vực tạm thời không có đối với các người chơi cởi mở nhà kho.
+
+	Trong nhà kho đặt vào hai con một lớn một nhỏ "Hộp đen" .
+
+	[  vật phẩm: Hộp đen  ] 
+
+	[  số hiệu: NO. 11  ] 
+
+	[  công năng: Sản xuất triệu chứng sinh mệnh thiết bị giám sát  ] 
+
+	[  sử dụng nói rõ: Đặt đại khí trong hoàn cảnh, kết nối nguồn điện, đưa vào 3L nước, 30 0G nhôm, 200g sắt, 100G đồng, 5 0G niken. . .  ] 
+
+	[  có thể đạt được: Triệu chứng sinh mệnh thiết bị giám sát, hữu cơ  ∕  vô cơ phế liệu.  ] 
+
+	[  vật phẩm: Hộp đen  ] 
+
+	[  số hiệu: NO. X  ] 
+
+	[  công năng: Nhân bản thể chuyên dụng khoang ngủ đông  ] 
+
+	[  sử dụng nói rõ: Đặt đại khí trong hoàn cảnh, kết nối nguồn điện, đưa vào 100L nước, 50KG nhôm, 30KG sắt, 5KG đồng, 100G niken, 8g kim. . .  ] 
+
+	[  có thể đạt được: Nhân bản thể chuyên dụng khoang ngủ đông, hữu cơ  ∕  vô cơ phế liệu.  ] 
+
+	Tiểu nhân con kia hộp đen, chỉ có tầm thường rương hành lý lớn nhỏ, cùng hắn tại số 117 chỗ tránh nạn bên trong tìm được quy cách tương tự.
+
+	Mà đổi thành bên ngoài một cái lớn, cùng hắn nói là cái rương, chẳng bằng nói một cỗ xe con.
+
+	Cùng lúc đó, màu lam nhạt cửa sổ hiện ra trước mặt Sở Quang kia là người quản lý hệ thống bắn ra khi hắn xem vực bên trong thẻ tư liệu.
+
+	Đi tới cái kia đánh số là NO. X cái rương trước, Sở Quang từ một cái lớn chừng bàn tay cái nắp bên trong, tìm được một phần vẽ lấy Giản bút họa, cho dù là mù chữ đều có thể xem hiểu thao tác nói rõ.
+
+	Nhưng mà. . .
+
+	Phía trên cũng không có giải thích, vật này là dùng để làm cái gì.
+
+	Cầm trong tay sách hướng dẫn lật qua lật lại nhìn hai lần, Sở Quang trên mặt hiện lên một tia biểu tình quái dị.
+
+	Từ bên cạnh lại gần Hạ Diêm, thay hắn nói ra trong lòng nói.
+
+	"Nhân bản thể chuyên dụng khoang ngủ đông? Vật này là dùng để làm gì a?"
+Kết chương.

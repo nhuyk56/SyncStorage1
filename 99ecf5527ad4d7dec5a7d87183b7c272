@@ -1,0 +1,195 @@
+Chương 1290 : Internet khởi đầu.
+"Đem Netscape trình duyệt mã nguồn lần nữa viết một lần, để cho kỳ biến phải càng thêm hoàn thiện cùng xinh xắn, tiện ở internet bên trên vận hành, dùng Java tới biên soạn."
+
+	Nói tới chỗ này, Mark · Anderson mặt sùng bái nhìn Phương Thần.
+
+	Hắn kỳ thực đã tham gia năm ngoái Silicon Valley đại hội, hơn nữa ở Silicon Valley trong đại hội thấy tận mắt Java tuyên bố.
+
+	Chẳng qua là Phương Thần như vậy nhân vật lớn, không thể nào chủ ý đến hắn mà thôi.
+
+	Khi hiểu được Java đặc tính sau, hắn đơn giản hưng phấn run rẩy.
+
+	Bởi vì Java chỗ gồm có Đa nền tảng tính, xinh xắn đặc tả thật sự là quá thích hợp ở internet biên soạn truyền bá phần mềm, thậm chí có thể nói Java chính là vì internet mà thành.
+
+	Trong lòng hắn rất rõ ràng, Netscape trình duyệt nếu như muốn để cho internet trở nên càng thêm thú vị, liền nhất định phải để cho nhiều hơn người dùng gia nhập vào trong đó, hơn nữa dễ dàng hơn phát hiện những người khác chỗ chế tạo Website, cùng với đủ loại xốc xếch, kỳ kỳ quái quái phần mềm nhóm mới được.
+
+	Nhưng hệ điều hành liền trở thành Netscape trình duyệt truyền bá giới hạn, thậm chí còn có thể lưu lại cực lớn chỗ sơ hở, bị Netscape trình duyệt bắt chước đám người, đối thủ nhóm chiếm cứ.
+
+	Dù sao bất kể là Microsoft hệ điều hành, hay là quả táo hệ điều hành, IBM hệ điều hành, hay hoặc là Sun Microsystems  Solaris hệ điều hành vân vân, những thứ này hệ điều hành bên trên phần mềm đều là lẫn nhau không kiêm dung .
+
+	Điều này cũng làm ý vị, Netscape trình duyệt mong muốn ở những chỗ này hệ điều hành bên trên vận hành, liền nhất định phải dựa theo các cái hệ điều hành trình tự biên soạn quy tắc, lần nữa biên soạn phần mềm mới được, bao gồm sau này đổi mới giữ gìn cũng là như vậy.
+
+	Cái này trên căn bản ý vị, toàn bộ lượng công việc đem đề cao gấp bốn thậm chí nhiều hơn, đây đối với bất kỳ một nhà phần mềm công ty mà nói, đều là vô cùng tai nạn chuyện.
+
+	Cho nên đối với đại đa số phần mềm nhỏ công ty mà nói, bọn họ phần mềm chỉ cần có thể ở Microsoft hệ điều hành bên trên vận được là được , nhiều lắm là hơn nữa cái quả táo hệ điều hành.
+
+	Cái khác , coi như xong đi, bây giờ không có cái nào năng lực cùng tinh lực.
+
+	Trừ cái đó ra, nếu như không thể để cho bản thân phần mềm ở Microsoft hệ điều hành ra hệ điều hành sử dụng, còn có một cái vấn đề.
+
+	Đó chính là sẽ xuất hiện chép lại người, cái khác hệ điều hành nền tảng chép lại người.
+
+	Nói thí dụ như, Netscape trình duyệt nếu như chẳng qua là ở Microsoft hệ điều hành trên có.
+
+	Như vậy thì rất có thể, cái khác phần mềm công ty hay hoặc là nói lập trình viên, chỉ biết ở quả táo hệ điều hành, hay hoặc là IBM hệ điều hành bên trên phỏng theo Netscape trình duyệt, chép lại ra ngoài ra một cái thuộc về bọn họ trình duyệt.
+
+	Nếu như hắn chẳng qua là tính toán để cho Netscape trở thành một công ty nhỏ vậy, cũng là không có vấn đề, ngược lại loại chuyện như vậy khắp nơi đều là.
+
+	Nhưng hắn đã bị Jim ba tấc không nát miệng lưỡi cổ động, đang mơ ước muốn dẫn dắt Netscape trở thành một nhà vĩ đại phần mềm xí nghiệp, để cho người đời đều dùng tới hắn Netscape trình duyệt, để cho mình trở thành một kẻ ngàn vạn phú hào.
+
+	Dưới tình huống này, hắn làm sao có thể chịu cho buông tha cho cái khác hệ điều hành bên trên thị trường định mức.
+
+	Nhưng là muốn để cho Netscape trình duyệt bên trên cái khác hệ điều hành nền tảng, tắc ý vị Netscape cần gia tăng rất nhiều nhân thủ, bỏ ra đại lượng công tác cùng cố gắng mới được, nhất là tiền mới được.
+
+	Dù sao lập trình viên cũng phải cần ăn cơm.
+
+	Mà hắn vừa đúng không có tiền.
+
+	Nhưng là Java đột nhiên xuất hiện sau, hết thảy đều trở nên không giống nhau , dựa vào Java chỗ gồm có Đa nền tảng hùng mạnh đặc tính, cho dù đối mặt bốn loại hệ điều hành, thậm chí nhiều hơn hệ điều hành, hắn cũng chỉ cần biên soạn một bộ Netscape trình duyệt trình tự như vậy đủ rồi.
+
+	Ngoài ra dùng Java biên soạn phần mềm, có thể so với dùng cái khác thao tác ngôn ngữ biên soạn phần mềm thể tích sẽ nhỏ hơn, đây đối với Netscape trình duyệt truyền bá có thể tạo được trợ giúp rất lớn tác dụng.
+
+	Dù sao bây giờ internet giải thông hay là quá mức hẹp hòi, nếu như một cái phần mềm download thời gian quá dài, là sẽ để cho người sụp đổ .
+
+	Có hai cái này vô cùng cường hãn ưu điểm, Java đích xác có thể nói chính là vì internet mà thành, cũng giải quyết hắn rất nhiều vấn đề lớn, phiền toái lớn.
+
+	Như vậy vừa đến, cũng sẽ không khó hiểu, hắn đối Java, đối Kình Thiên, thậm chí đối Phương Thần cuồng nhiệt .
+
+	Dĩ nhiên , mặc dù hắn chính mình cũng không biết bản thân ánh mắt này trong, có bao nhiêu là diễn thành phần, nhưng hắn có thể nói khẳng định, nhất định là có .
+
+	Dù sao đối mặt như vậy một vị siêu cấp đại phú hào, người giàu nhất thế giới, hơi diễn một diễn, nên là không sai.
+
+	Vạn nhất có thể thu được đại lượng chỗ tốt đâu?
+
+	Liền lấy Phương Thần giá trị, tùy tiện từ trên người rút ra cọng lông, như vậy đủ rồi thỏa mãn Netscape trình duyệt ở trong quá trình phát triển, đối tiền nhu cầu .
+
+	Tiếp xuống, Mark · Anderson nói không ít hắn đối Netscape trình duyệt kỳ tư diệu tưởng, mong muốn gia tăng các loại các dạng chức năng.
+
+	"Vậy mà không nghi ngờ chút nào, nghĩ muốn làm được những thứ này, để cho Netscape trình duyệt trở nên càng thêm cường đại, chức năng càng thêm phong phú, nhất là đem dùng Java lập trình ngôn ngữ lần nữa biên soạn một lần, là cần muốn tiền."
+
+	"Hơn nữa trừ cái đó ra, ta còn muốn đem Netscape trình duyệt nòng cốt kỹ thuật, từ ta trường cũ mua về, điều này hiển nhiên lại là một số tiền lớn."
+
+	Mark · Anderson có chút ngượng ngùng nói.
+
+	Trước cũng nói, hắn biên soạn Netscape trình duyệt dùng chính là Illinois đại học quốc gia siêu máy tính ứng dụng trung tâm kinh phí, cho nên Netscape trình duyệt quyền sở hữu, chuyện đương nhiên liền nên là Illinois đại học .
+
+	Bất quá Illinois đại học, chống đỡ bọn họ những học sinh này đem ở trường trong lúc, lợi dụng trường học tiền bạc lấy được kỹ thuật thành quả mua đi, cũng sáng nghiệp phát triển.
+
+	Hơn nữa bây giờ Netscape trình duyệt chỉ có thể nói là có chút danh tiếng, cho nên hắn cảm thấy mua đứt phí sẽ không quá quý, đại khái cần hai trăm ngàn đô la đến năm trăm ngàn đô la giữa.
+
+	Dĩ nhiên , Netscape trình duyệt nếu như lại phát triển tiếp vậy, cái này mua đứt phí là nhất định sẽ tăng, hơn nữa nếu như danh tiếng quá lớn, kinh tế hiệu ích rất tốt lời, trường học cũng rất có thể cự tuyệt hắn mua đứt.
+
+	Dù sao loại chuyện như vậy, không phải chưa từng xảy ra, Cisco công ty gặp gỡ chính là như nhau.
+
+	Bây giờ tiếng tăm lừng lẫy Cisco công ty, chủ doanh sản phẩm Router một hạng nòng cốt bản quyền sáng chế, 《 Multiprotocol Router 》 chính là này công ty người sáng lập, Leonard · Bosack vợ chồng hai người nghiên cứu ra.
+
+	Phần này nòng cốt bản quyền sáng chế, chủ yếu dùng cho Stanford website trường lạc, đem trong sân trường không kiêm dung máy tính mạng máy tính cục bộ chỉnh hợp lại cùng nhau, tạo thành một thống nhất mạng.
+
+	Nhưng bởi vì phần này bản quyền sáng chế nghiên chế thời điểm, cái này đối vợ chồng đương nhiệm, Stanford đại học khoa máy tính trung tâm máy tính chủ nhiệm cùng học viện thương mại trung tâm máy tính chủ nhiệm.
+
+	Cho nên ở Cisco công ty phát triển lớn mạnh sau, Stanford đại học liền chủ trương 《 Multiprotocol Router 》 phần này bản quyền sáng chế phải thuộc về Stanford đại học.
+
+	Lúc ấy cũng là huyên náo xôn xao.
+
+	Vậy mà kết quả cuối cùng, nên Cisco công ty hướng Stanford đại học nộp một khoản tiền bản quyền, sau đó lại tặng cho này một bộ phận Cisco công ty cổ phần mà giải hòa .
+
+	Cho nên nói, hắn nhất định phải thừa dịp Illinois đại học còn chưa phát hiện Router giá trị trước, đem mua lại.
+
+	Nói xong lời này, lần nữa ngồi vào trên ghế, Mark · Anderson cảm giác buồng tim của mình lại bịch bịch kịch liệt nhảy lên.
+
+	Hắn biết quyết định bản thân, quyết định Netscape số mạng thời khắc đến .
+
+	Bình tĩnh mà xem xét, Phương Thần bên này hỏi ý lưu trình coi như là tương đối đơn giản, cũng không biết là bởi vì không hiểu kỹ thuật nguyên nhân, hay là đối với tiền không quan tâm nguyên nhân, Phương Thần cũng không có cái gì quá nhiều vấn đề, phần lớn đều là nghe hắn ở giới thiệu.
+
+	Suy nghĩ một chút, Mark · Anderson vẫn cảm thấy Phương Thần sở dĩ không hỏi nhiều như vậy vấn đề, tắc nhiều hơn là bởi vì đối tiền không quan tâm.
+
+	Dù sao những thứ kia công ty đầu tư mạo hiểm những người phụ trách, cũng không hiểu kỹ thuật...
+
+	Nhưng cái này không chút nào trễ nải bọn họ hỏi lung tung này kia, nhất là hi vọng từ trong miệng của hắn cho ra một đáng tin hồi báo đáng giá, lên sàn thời gian biểu chờ chút.
+
+	Nhưng vấn đề là, những thứ đồ này hắn nào có, liền Netscape trình duyệt làm như thế nào thu lệ phí cũng không biết, làm sao sẽ biết hồi báo đáng giá là bao nhiêu, lúc nào lên sàn.
+
+	Nghĩ tới đây, Mark · Anderson đột nhiên nhìn Phương Thần thuận mắt nhiều , cảm thấy người giàu nhất thế giới chính là người giàu nhất thế giới, khí độ không giống nhau.
+
+	Thậm chí hắn lúc này cẩn thận suy nghĩ một chút, bỏ ra Phương Thần người giàu nhất thế giới thân phận, nếu như hắn có chọn lựa công ty đầu tư mạo hiểm đường sống, ở trước hắn ném qua kế hoạch kinh doanh nhiều như vậy công ty đầu tư mạo hiểm trong, hắn hay là càng muốn lựa chọn Phương Thần.
+
+	Dù sao Phương Thần mang đến cho hắn một cảm giác càng tốt hơn.
+
+	Nghĩ tới đây, Mark · Anderson trong lòng trong nháy mắt bình tĩnh rất nhiều.
+
+	"Kỳ thực, ta nghĩ các ngươi nên là có thể thấy được , ta đối trình duyệt là hết sức coi trọng , thậm chí cho là trình duyệt sẽ cải biến thế giới, nắm giữ tương lai Internet cửa vào." Phương Thần nhìn hai người vừa cười vừa nói.
+
+	"Internet?"
+
+	Nghe được cái từ này, Mark · Anderson tiềm thức hỏi một câu.
+
+	Ngay sau đó, hắn liền ý thức được không đúng, lập tức câm miệng, nói năng thận trọng.
+
+	Dù sao lấy thân phận của Phương Thần địa vị, cũng không có giúp hắn giải đáp nghi vấn giải hoặc cần thiết.
+
+	Nhưng ai biết, Phương Thần không ngờ cười một tiếng, sau đó nói: "Internet là bởi vì rất nhiều nhỏ mạng liên kết mà thành một suy luận lưới, mỗi cái nhỏ mạng trong liên tiếp một số đài máy tính. Internet nên trao đổi lẫn nhau tin tức tài nguyên làm mục đích, căn cứ vào một ít hiệp nghị chung, cũng thông qua rất nhiều Router cùng công cộng Internet mà thành."
+
+	"Vậy mà Internet thời là internet một thăng cấp, chỉ chính là mạng cùng mạng giữa chỗ móc nối thành bàng mạng lưới lớn, những mạng lưới này lấy một tổ thông dụng hiệp nghị liên kết, tạo thành suy luận bên trên đơn một cái cực lớn quốc tế mạng."
+
+	"Đối với ta mà nói, ta cảm thấy Internet gồm có có thể không chịu không gian hạn chế tới tiến hành tin tức trao đổi tin tức trao đổi, tin tức gồm có lúc vực tính."
+
+	"Người với người, người cùng tin tức giữa có thể hỗ động trao đổi, tin tức trao đổi sử dụng chi phí thấp, thậm chí thông qua tin tức trao đổi, thay thế vật thật trao đổi."
+
+	"Tin tức trao đổi phát triển xu hướng với cá tính hóa, dễ dàng thỏa mãn mỗi người cá tính hóa nhu cầu, người sử dụng đông đảo."
+
+	"Tin tức có giá trị bị tài nguyên chỉnh hợp, tin tức chứa đựng số lượng nhiều, cao hiệu, nhanh chóng tin tức trao đổi có thể lấy, video, hình ảnh, chữ viết nhiều loại hình thức tồn tại."
+
+	Nói đến đây, Phương Thần nhún vai một cái, vừa cười vừa nói: "Dĩ nhiên , những thứ này chỉ là một tốt đẹp mơ mộng, tạm thời còn không có thực hiện, cần chúng ta thế hệ này máy tính người chung nhau tới thực hiện."
+
+	"Bây giờ ta nguyện ý trợ giúp ngươi, như vậy Anderson, ngươi làm xong thực hiện cái này vĩ đại mộng tưởng chuẩn bị sao?"
+
+	Phương Thần đột nhiên đứng lên, hướng về phía Mark · Anderson duỗi ra tay.
+
+	"Ta... Ta... Ta không có chuẩn bị xong, nhưng là ta nguyện ý vì chi mà cố gắng phấn đấu!"
+
+	Mark · Anderson đứng lên, kích động vạn phần, cặp mắt sáng lên nói.
+
+	Tâm tình của hắn lúc này thật không cách nào dùng ngôn ngữ để biểu đạt, thậm chí hắn cảm thấy nếu như internet, không, Internet có chỉ rõ tương lai tiên tri, thiên tuyển chi tử, kia tất nhiên là Phương Thần không thể nghi ngờ.
+
+	Phương Thần đơn giản cho hắn, vì rộng lớn máy tính người đẩy ra một cánh mới cổng, để cho bọn họ thấy được, thậm chí chỉ dẫn bọn họ trước đi vào, tương lai giống như khoa học viễn tưởng bình thường Internet tương lai.
+
+	Hắn thật không biết, nếu như Phương Thần nói những thứ kia cũng thực hiện, Internet ở xã hội loài người đem sẽ trở nên quan trọng cỡ nào, gặp nhau đối xã hội loài người phát triển sinh ra bao lớn thay đổi.
+
+	Mà vừa nghĩ tới hắn, chẳng những là thay đổi xã hội loài người một viên, càng là này khởi đầu tận mắt chứng kiến người, hắn thì có loại không ngừng được kích động cùng cảm giác hưng phấn.
+
+	Thấy vậy, Phương Thần nhất thời cười , hắn liền thích nhìn Anderson loại này không có thấy qua việc đời dáng vẻ.
+
+	Nói thật, hắn vừa rồi nói những thứ kia, chẳng qua là hắn nhặt có thể nói nói mà thôi, giống như cụ thể ứng dụng, nói thí dụ như tức thì truyền tin, email, Weixin, Facebook, Weibo, người người, QQ không gian, Blog, diễn đàn, vòng bằng hữu mua hàng online, bán vé, lưới bàn vân vân cái này một món lớn Internet phần mềm, hắn còn không có nói.
+
+	Nếu như nói, tùy tiện lược xuất tới một cái khái niệm, cũng đủ để hù chết Mark · Anderson .
+
+	"Tiếp xuống, chúng ta nói một chút các ngươi cần bao nhiêu tiền, hơn nữa nguyện ý vì chi giao ra bao nhiêu cổ phần. Dù sao mơ mộng là mơ mộng, làm ăn là làm ăn, hơn nữa cũng không có ai nói, lựa chọn mơ mộng nhất định phải nghèo khó." Phương Thần nhìn xoáy sâu Mark · Anderson một cái, nói.
+
+	Mark · Anderson đột nhiên gật đầu một cái.
+
+	Nói thật, liền hướng Phương Thần nói ra được những thứ này lý niệm, hắn liền đã không kịp chờ đợi mong muốn cùng Phương Thần hợp tác, vì thực hiện cái này vĩ đại Internet cố gắng phấn đấu.
+
+	Bất quá tiếp theo một cái chớp mắt, trong đầu hắn linh quang chợt lóe, sau đó có chút lúng túng nhìn một chút Jim.
+
+	Hắn mới vừa có chút làm đầu óc choáng váng, quên , Jim nói với hắn tốt , hắn chỉ phụ trách giới thiệu Netscape trình duyệt, bàn giá cả là Jim chuyện, hắn có chút bao biện làm thay .
+
+	Thấy vậy, Phương Thần không khỏi nở nụ cười, trẻ tuổi thật tốt.
+
+	Làm việc mặc dù có chút dễ dàng cấp trên, nhưng là lại để cho người không tự chủ được có loại nhiệt huyết sôi trào, sức sống ngất trời cảm giác.
+
+	Dưới so sánh, hắn mặc dù nhìn so Mark · Anderson trẻ tuổi cả mấy tuổi, lại nhiều hơn là lão khí hoành tu, lão mưu thâm toán chi cảm giác.
+
+	Suy nghĩ một chút, đại khái là bởi vì hắn cả ngày giao thiệp đều là Luzhkov, Bill Gates người như vậy, thậm chí ngay cả địch nhân đều là Soros hàng ngũ, nếu là không lão mưu thâm toán một chút, chỉ sợ sớm đã bị người liền da lẫn xương ăn.
+
+	Nhất là bây giờ đem Kình Thiên phát triển đến nước này, cái thế giới này đã không cho phép hắn tuổi trẻ đi xuống .
+
+	Không để ý Mark · Anderson điểm này sai lầm nhỏ, nhỏ xung động, dù sao nhận biết thời gian cũng không ngắn , nếu như quá quan tâm điều này lời, hắn sớm đã bị tức chết .
+
+	"Năm triệu USD, 30% cổ phần, ngài thấy có được không?" Cân nhắc một chút, Jim nói.
+
+	Phương Thần trầm ngâm một chút, sau đó nói: "Mười triệu USD, 50% cổ phần."
+
+	Nghe lời này, Mark · Anderson cùng Jim nhất thời sửng sốt .
+
+	Thậm chí lúc này, Mark · Anderson đã bắt đầu bẻ đầu ngón tay, tính dựa theo một chục triệu đô la, 50% cổ phần tới tính toán, hắn ở công ty Netscape chiếm cứ cổ phần, có thể liền giá trị bao nhiêu.
+Kết chương.
